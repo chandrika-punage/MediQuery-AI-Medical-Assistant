@@ -2,7 +2,6 @@
 
 > Role-gated medical knowledge assistant for hospital staff. Hybrid-retrieval RAG with JWT-based RBAC, query-time safety guards, and conversation-aware query rewriting — containerised end-to-end.
 
-![CI](https://github.com/himelds/MediQuery/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.136-009688?logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&logoColor=white)
