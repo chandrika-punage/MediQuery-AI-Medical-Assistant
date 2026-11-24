@@ -172,7 +172,7 @@ The simplest path. Brings up both services with a single command.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/himelds/MediQuery.git
+git clone https://github.com/chandrika-punage/MediQuery-AI-Medical-Assistant.git
 cd MediQuery
 
 # 2. Configure environment
