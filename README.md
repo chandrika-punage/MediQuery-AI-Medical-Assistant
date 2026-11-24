@@ -307,7 +307,7 @@ Key parameters in `backend/config.py`:
 
 ---
 
-## Data Sources and Licensing
+<!-- ## Data Sources and Licensing
 
 This project uses two corpora, both with permissive licensing for reuse:
 
@@ -318,26 +318,16 @@ Full per-document attribution is in [`data/SOURCES.md`](data/SOURCES.md).
 
 > This is a portfolio project. The system is not affiliated with University Hospitals Plymouth NHS Trust, the U.S. National Library of Medicine, or any other organisation referenced in the source documents.
 
----
+--- -->
 
-## License
-
-MIT — see [`LICENSE`](./LICENSE).
-
----
 
 ## Contact
 
 **Himel Das** — <!-- replace placeholders below before commit -->
 
-- Email: himeldas077@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dashimel/
+- Email: chandrikapunage031@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chandrika-punage-267134228/
 
 ---
 
-## Acknowledgments
 
-- **University Hospitals Plymouth NHS Trust** for the operational policy corpus, made available under the Open Government Licence v3.0
-- **MedQuAD** (U.S. National Library of Medicine) for the medical QA corpus
-- **Groq** for hosted LLM inference
-- Open-source models from **Sentence Transformers** and the **Hugging Face** ecosystem
