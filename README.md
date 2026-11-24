@@ -321,7 +321,7 @@ Full per-document attribution is in [`data/SOURCES.md`](data/SOURCES.md).
 
 ## Contact
 
-**Himel Das** — <!-- replace placeholders below before commit -->
+**Chandrika Punage** — <!-- replace placeholders below before commit -->
 
 - Email: chandrikapunage031@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chandrika-punage-267134228/
